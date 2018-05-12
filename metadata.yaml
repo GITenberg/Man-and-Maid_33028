@@ -1,0 +1,36 @@
+_repo: Man-and-Maid_33028
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Nesbit, Edith
+    - Bland, Edith Nesbit
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: ''
+gutenberg_issued: '2010-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33028'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- !lcsh 'Man-woman relationships -- Fiction'
+tableOfContents: The haunted inheritance -- The power of darkness -- The stranger
+  who might have been observed -- Rack and thumbscrew -- The millionairess -- The
+  hermit of "The Yews" -- The aunt and the editor -- Miss Mouse -- The old wife --
+  The house of silence -- The girl at the tobacconist's -- While it is yet day --
+  Alcibiades.
+title: Man and Maid
+url: http://www.gutenberg.org/ebooks/33028
